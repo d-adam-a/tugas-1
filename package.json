@@ -1,0 +1,13 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mulai": "node soal1.js && node soal-2.js echo \"Berhasil\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
